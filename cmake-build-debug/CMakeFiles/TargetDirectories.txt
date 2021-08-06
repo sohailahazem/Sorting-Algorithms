@@ -1,0 +1,3 @@
+D:/Photos/sorting/cmake-build-debug/CMakeFiles/sorting.dir
+D:/Photos/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Photos/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
