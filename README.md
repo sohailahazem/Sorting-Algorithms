@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-College Project
+College Project.
 The Program includes six sorting algorithms. Three of which with a time complexity of O(𝑛 ). These Three are: Insertion sort, Selection sort, and Bubble sort. 
 The other three algorithms are of time complexity O(nlogn) in the average case. Those algorithms are: Merge sort, Heap sort, and Quick sort. 
 Those algorithms are defined in the program as functions. Each algorithm has separatefunction/s. The main function of each of the algorithms 
